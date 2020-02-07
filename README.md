@@ -1,6 +1,6 @@
 # Data storage and retrieval: a comparison of hashing and directed search of sorted data
 
-This assignment involves writing C programs and functions which will store lists of integers in (a) a hash table and (b) a sorted array, and then will find given values within either the hash table or the sorted array. An evaluation and comparison of the run-time and complexity of these algorithms will be performed. The particular algorithms chosen for study are:
+This assignment involves writing C programs and functions which will store lists of integers in (a) a hash table and (b) a sorted array and then will find given values within either the hash table or the sorted array. An evaluation and comparison of the run-time and complexity of these algorithms will be performed. The particular algorithms chosen for study are:
 
 - Hashing
 - Selection sort
